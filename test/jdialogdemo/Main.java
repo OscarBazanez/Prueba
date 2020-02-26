@@ -6,7 +6,7 @@ public class Main extends JFrame{
         setTitle("Developing the First Swing Application");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
- 
+  //aa
     public static void main(String[] args) {
         Main demo = new Main( );
         demo.setVisible(true);
